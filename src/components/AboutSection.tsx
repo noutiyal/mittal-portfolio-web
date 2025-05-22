@@ -27,15 +27,15 @@ const AboutSection = () => {
               <div className="space-y-3">
                 <div className="flex gap-2">
                   <div className="w-2 h-2 rounded-full bg-primary mt-2"></div>
-                  <p><span className="font-medium">M.Sc IT</span> - PCTE Group of Institutes</p>
+                  <p><span className="font-medium">M.Sc IT</span> - Punjabi University Patiala</p>
                 </div>
                 <div className="flex gap-2">
                   <div className="w-2 h-2 rounded-full bg-primary mt-2"></div>
-                  <p><span className="font-medium">PGDCA</span> - DAV College</p>
+                  <p><span className="font-medium">PGDCA</span> - Govt. Ranbir College Sangrur</p>
                 </div>
                 <div className="flex gap-2">
                   <div className="w-2 h-2 rounded-full bg-primary mt-2"></div>
-                  <p><span className="font-medium">BCA</span> - DAV College</p>
+                  <p><span className="font-medium">BCA</span> - Govt. Ranbir College Sangrur</p>
                 </div>
               </div>
             </div>
@@ -45,7 +45,7 @@ const AboutSection = () => {
             <h3 className="text-xl font-semibold mb-6">Technical Skills</h3>
             <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
               <SkillCard title="Languages & Frameworks" skills={["PHP", "Laravel", "JavaScript", "jQuery", "HTML", "CSS", "Bootstrap"]} />
-              <SkillCard title="Database" skills={["MySQL", "Database Design", "Query Optimization"]} />
+              <SkillCard title="Database" skills={["MySQL", "MongoDB", "Database Design", "Query Optimization"]} />
               <SkillCard title="Web Development" skills={["AJAX", "RESTful APIs", "Responsive Design"]} />
               <SkillCard title="Best Practices" skills={["System Design", "Secure Coding", "Code Optimization"]} />
             </div>
