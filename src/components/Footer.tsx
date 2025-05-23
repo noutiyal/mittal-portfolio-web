@@ -10,7 +10,7 @@ const Footer = () => {
         <div className="grid grid-cols-1 md:grid-cols-2 gap-8 items-center">
           <div>
             <h3 className="text-xl font-bold mb-2">Jashan Mittal</h3>
-            <p className="text-white/70 mb-4">Software Engineer | PHP & Laravel Developer</p>
+            <p className="text-white/70 mb-4">Senior Software Engineer | PHP & Laravel Developer</p>
             <div className="flex space-x-4">
               {/* <a
                 href="https://github.com/"

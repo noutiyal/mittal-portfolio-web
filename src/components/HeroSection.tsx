@@ -15,7 +15,7 @@ const HeroSection = () => {
             Senior Software Engineer | PHP & Laravel Developer
           </h2>
           <p className="text-white/80 text-lg md:text-xl mb-8 max-w-2xl animate-fade-in animate-delay-200">
-            Building reliable, scalable web apps with expertise in PHP, Laravel, MYSQL, JavaScript, React, MongoDB, NodeJS.
+            Building reliable, scalable web apps with expertise in PHP, Laravel, MYSQL, JavaScript, React, MongoDB and NodeJS.
           </p>
           <div className="flex flex-wrap gap-4 animate-fade-in animate-delay-300">
             <Button className="bg-primary hover:bg-primary/80">
