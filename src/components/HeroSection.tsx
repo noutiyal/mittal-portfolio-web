@@ -18,7 +18,7 @@ const HeroSection = () => {
             Building reliable, scalable web apps with expertise in PHP, Laravel, MYSQL, JavaScript, React, MongoDB and NodeJS.
           </p>
           <div className="flex flex-wrap gap-4 animate-fade-in animate-delay-300">
-            <Button className="bg-primary hover:bg-primary/80">
+            {/* <Button className="bg-primary hover:bg-primary/80">
               <a
                 href="https://drive.google.com/file/d/1aKEruIEygXwgyDIE9lxq5S3F-fPAoDCP/view?usp=sharing"
                 download
@@ -27,7 +27,7 @@ const HeroSection = () => {
                 <Download className="mr-2 h-4 w-4" />
                 Download Resume
               </a>
-            </Button>
+            </Button> */}
             <a
               href="https://linkedin.com/in/jashan-mittal-9b056b160"
               target="_blank"

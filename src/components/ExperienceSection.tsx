@@ -22,7 +22,7 @@ const experiences: Experience[] = [
     ],
   },
   {
-    company: "TechDevop Solutions",
+    company: "rjay Solutions",
     position: "Senior Software Engineer",
     period: "July 2024 - Present",
     description: [
